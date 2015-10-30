@@ -1,0 +1,29 @@
+{
+  "name": "roots",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+      "roots": "./bin/roots.js"
+   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yuwancumian/roots.git"
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2"
+  ],
+  "author": "yuwancumian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuwancumian/roots/issues"
+  },
+  "homepage": "https://github.com/yuwancumian/roots",
+  "dependencies": {
+    "shelljs": "^0.5.3"
+  }
+}
